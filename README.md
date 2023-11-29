@@ -1,6 +1,7 @@
 to start application on device emulator
-download Expo Go
-on root directory run
+download Expo Go on iphone or android
+clone and open this repo
+in your terminal, on root directory run:
 
 > npm install
 > expo-cli start --tunnel
